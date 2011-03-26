@@ -1,6 +1,6 @@
 # Copyright 1999-2008 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header: /var/cvsroot/gentoo-x86/sys-apps/prctl/prctl-1.5.ebuild,v 1.3 2008/07/14 19:04:18 armin76 Exp $
+# $Header: $
 
 inherit versionator
 inherit distutils
