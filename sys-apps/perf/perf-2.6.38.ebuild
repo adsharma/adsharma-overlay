@@ -5,11 +5,9 @@
 inherit versionator
 inherit distutils
 
-MY_PV=2.6.38rc3
-MY_S=${WORKDIR}/${PN}-${MY_PV}
 DESCRIPTION="Tool to query CPU performance counters and more"
 HOMEPAGE="https://perf.wiki.kernel.org/index.php/Perf_examples"
-SRC_URI="file:///tmp/${PN}/${PN}-${MY_PV}.tar.gz"
+SRC_URI="file:///tmp/${PN}/${PN}-${PV}.tar.gz"
 
 LICENSE="GPL-2"
 SLOT="0"
